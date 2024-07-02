@@ -1695,3 +1695,4 @@ Quote on |Tue, 02 Jul 2024 07:14:21 GMT| :  A wise man will make more opportunit
 Quote on |Tue, 02 Jul 2024 07:26:56 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
 Quote on |Tue, 02 Jul 2024 07:34:16 GMT| :  When you realize there is nothing lacking, the whole world belongs to you. - Laozi
 Quote on |Tue, 02 Jul 2024 07:41:16 GMT| :  One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim. - Brooks Adams
+Quote on |Tue, 02 Jul 2024 07:48:29 GMT| :  To study and not think is a waste. To think and not study is dangerous. - Confucius

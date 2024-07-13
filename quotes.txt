@@ -3150,3 +3150,4 @@ Quote on |Sat, 13 Jul 2024 13:46:50 GMT| :  The essence of true friendship is to
 Quote on |Sat, 13 Jul 2024 13:53:41 GMT| :  One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world. - Hannah Szenes
 Quote on |Sat, 13 Jul 2024 14:02:02 GMT| :  It is through science that we prove, but through intuition that we discover. - Henri Poincaré
 Quote on |Sat, 13 Jul 2024 14:17:25 GMT| :  All the great performers I have worked with are fueled by a personal dream. - John Eliot
+Quote on |Sat, 13 Jul 2024 14:27:24 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson

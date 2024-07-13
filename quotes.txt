@@ -3151,3 +3151,4 @@ Quote on |Sat, 13 Jul 2024 13:53:41 GMT| :  One needs something to believe in, s
 Quote on |Sat, 13 Jul 2024 14:02:02 GMT| :  It is through science that we prove, but through intuition that we discover. - Henri Poincaré
 Quote on |Sat, 13 Jul 2024 14:17:25 GMT| :  All the great performers I have worked with are fueled by a personal dream. - John Eliot
 Quote on |Sat, 13 Jul 2024 14:27:24 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
+Quote on |Sat, 13 Jul 2024 14:34:57 GMT| :  You are always free to change your mind and choose a different future, or a different past. - Richard Bach

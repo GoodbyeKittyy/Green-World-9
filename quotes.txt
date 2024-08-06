@@ -6167,3 +6167,4 @@ Quote on |Tue, 06 Aug 2024 10:06:56 GMT| :  Study the past, if you would divine 
 Quote on |Tue, 06 Aug 2024 10:28:30 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
 Quote on |Tue, 06 Aug 2024 10:39:05 GMT| :  Logic is the beginning of wisdom, not the end. - Leonard Nimoy
 Quote on |Tue, 06 Aug 2024 10:46:17 GMT| :  It's easier to resist at the beginning than at the end. - Leonardo da Vinci
+Quote on |Tue, 06 Aug 2024 10:53:23 GMT| :  Technology made large populations possible; large populations now make technology indispensable. - Joseph Wood Krutch
